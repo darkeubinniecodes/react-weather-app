@@ -11,6 +11,7 @@ export default function App() {
           <a
             href="https://github.com/darkeubinniecodes/react-weather-app"
             target="blank"
+            rel="noonpener noreferrer"
           >
             open-sourced on GitHub
           </a>
